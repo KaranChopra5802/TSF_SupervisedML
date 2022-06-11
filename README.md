@@ -1,4 +1,5 @@
-This repository contains the code for my first task as a data science intern at the sparks foundation.
+This repository contains the code for my first task as a data science intern at The Sparks Foundation.
+
 
 The problem statement was as follows -
 
